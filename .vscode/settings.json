@@ -1,0 +1,24 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".gitignore": true,
+    ".idea": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "android": true,
+    "build": true,
+    "ios": true,
+    "linux": true,
+    "macos": true,
+    "pubspec.lock": true,
+    "README.md": true,
+    "test": true,
+    "vpn.iml": true,
+    "web": true,
+    "windows": true,
+    ".vscode": true,
+    ".flutter-plugins-dependencies": true,
+    ".flutter-plugins": true
+  },
+  "cSpell.words": ["appbar"]
+}
